@@ -10,7 +10,9 @@ Postgre SQL
 
 PgAdmin4
 
+# Schema
 
+![image](https://github.com/user-attachments/assets/37aa6fb0-1505-4359-813d-7dfec11b7fda)
 
 
 
